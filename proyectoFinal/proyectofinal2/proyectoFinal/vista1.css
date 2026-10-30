@@ -1,0 +1,150 @@
+.fondo{
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+   
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibOFRHOJtFAHGOo0DcFVJEbzZv-_pFEzOCr2SmpYrq0vBeXWwoShHFwwUcx1zrLQlB_rxA23wpzDGYHEzKIz9iVB5lA35Nuab46fu-Aaenzxc9FwSyxxG4tGsLweMDbVyWZPbwXGgeG0Rn3FcMTBGOi-6d0yAxdxfXSE2A6CkK-kCL-HL9IEzM5WOCtM_-/s1600/image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+    filter: blur(6px);
+
+
+
+
+
+
+}
+.targeta{
+
+    font-size: 50%;
+    display:flex;
+
+    flex-direction:column;
+
+    justify-content:space-between;
+
+    width:700px;
+   height: 700px;
+    border: 3px solid rgb(255, 254, 254);
+
+    box-shadow: 2px 2px 8px 4px #ffffff;
+
+    border-radius:7px;
+
+    background: linear-gradient(to bottom, #2fc799dc, #00615c );  
+    background-color:rgb(176, 241, 241);
+     
+/*
+esto se usa para literalmente sentrar la targeta, el top lo pone arriba y left ase ke este en el centro
+*/
+  
+position: absolute;
+
+color: #ffffff;
+
+}
+  
+
+.miniscythe {
+
+
+    width:33px;
+    height: 42px;
+
+right: 40%;
+
+}
+
+.minibroker{
+
+    width:33px;
+    height: 42px;
+
+right: 42%;
+
+}
+
+.bann{
+
+top: 2%;
+height: 200px;
+}
+
+
+.verdadero{
+    height: 4%;
+    width:10%;
+left: 60%;
+box-shadow: 20px 6px 12px rgba(0,0,0,0.15);
+
+}
+
+
+.falso{
+        height: 4%;
+        width:10%;
+        box-shadow: 20px 6px 12px rgba(0,0,0,0.15);
+    
+    }
+
+.BrokerdePhighting{
+
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: 59px;
+text-align: center;
+margin-top: 50px;
+}
+
+
+.spinin{
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: 59px;
+text-align: center;
+margin-top: 50px;
+
+}
+
+.verdadero:hover {
+
+
+
+    background: linear-gradient(to bottom, #8fdfc7dc, #03025281 );  
+ color: rgba(255, 255, 255, 0.726);
+
+ box-shadow: 20px 6px 12px rgba(145, 224, 255, 0.404);
+}
+
+
+.falso:hover {
+
+
+
+    background: linear-gradient(to bottom, #8fdfc7dc, #03025281 );  
+ color: rgba(255, 255, 255, 0.726);
+
+ box-shadow: 20px 6px 12px rgba(145, 224, 255, 0.404);
+}
+
+
+.brillito{
+
+
+
+    height: 20px;
+}
+
+
+
+
