@@ -1,0 +1,17 @@
+.fondosi{
+
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+
+    background-image: url( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIalQv9_ZEaC7FyiZM2RibfMH2Bk_3_0xwX2iXVxOmPRRBYl18l5xDi30&s=10);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+filter: blur(6px);
+}

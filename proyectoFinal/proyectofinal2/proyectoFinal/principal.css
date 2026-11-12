@@ -98,6 +98,39 @@ font-family: 'Cormorant Garamond', serif;
 color:#b1eeff;
 border-radius: 10px;
  box-shadow: 2px 2px 8px 4px #ffffff;
+
+ transition: 2s;
 }
 
+.cambiarok:hover{
+     transform: scale(1.2);
+}
 
+.nnnn{
+
+
+
+
+     height: 50px;
+     position: absolute;
+    top: 40%;
+         left: 50%;
+         transform: translateX(-50%);
+         background-color:#181bec;
+    font-family: 'Cormorant Garamond', serif;
+    color:#c2dcff;
+    border-radius: 10px;
+     box-shadow: 2px 2px 8px 4px #ffffff;
+font-size: 100%;
+
+
+transition: 2s;
+
+
+}
+
+.nnnn:hover{
+
+     transform: scale(1.2);
+
+}
