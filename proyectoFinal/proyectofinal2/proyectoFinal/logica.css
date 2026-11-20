@@ -1,0 +1,25 @@
+.fondo{
+
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+   
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8dmkhB-8NPETPISFLWMJYi9CKsHfhzH5yGrwXiGcDCMchQhPRuTXYIG8S3axV7yz9dKiX9i5e5wMTmRmVhgz7ADN35GnshzWaEWn0DbzRwCTGlwfHkzu0fUyViLzzspNZNkma1VfVuf22dLMdlITqAy0eclFdOXcUD0Mcb59Vd3YRnroUPIXPeWJsR6mv/s1600/image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  
+
+}
+
+
+.preguntas{
+
+ text-align: center;   
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ text-shadow: 2px 2px 4px #5594e7;
+}

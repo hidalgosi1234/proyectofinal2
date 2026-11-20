@@ -1,0 +1,84 @@
+body{
+cursor: url("star.png"), auto;
+}
+
+
+.fondo{
+position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    
+    z-index: -1;
+
+
+    background-image: url(nocheestrellas.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+filter: blur(6px);
+}
+
+.si{
+
+width: 100%;
+
+}
+
+.targeta{
+
+background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHVcNaLNIpaFSPo8mSNeKTwKL3PuHXAqsy4GdU2aPGN9VGlqZKv83rzkBd2AzOVTajfBhg9WJN1McFMLFX0EUC9Ugige6jx7ep3Abutjn4QYZAjck_Vo_qsTLVf5v_G0xrzYSUfKY4QoKj9ym2YDRYDkQxbWziE3pkuAN0GTfAKLISz3d77U_ewg8wHtPR/s1600/image.png);
+ background-repeat: no-repeat;
+    background-size: cover;
+
+ width: 900px;
+ height: 700px;
+}
+.preguntas{
+
+color:aliceblue
+
+}
+
+.astro{
+
+ position: absolute; 
+
+
+height: 500px;
+width: 500px;
+left: 60%;
+top: 20%;
+}
+
+.astro2{
+
+position: absolute; 
+
+
+height: 500px;
+width: 500px;
+
+
+}
+.verdadero{
+
+background-image: url(https://media1.tenor.com/m/kVuRT6oyIeUAAAAC/moonberry-astro.gif);
+
+}
+
+
+.falso{
+background-image: url(https://media1.tenor.com/m/kVuRT6oyIeUAAAAC/moonberry-astro.gif);
+}
+
+.moonberry{
+
+    position: absolute; 
+
+    height: 300px;
+width: 300px;
+left: 64%;
+top: 110%;
+}

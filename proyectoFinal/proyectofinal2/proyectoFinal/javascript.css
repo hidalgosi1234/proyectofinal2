@@ -1,0 +1,59 @@
+.fondo{
+
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+   
+    background-image: url("https://media1.tenor.com/m/LvYeLbPi1h0AAAAC/rher-fear-and-hunger.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    filter: brightness(0.5);
+    filter: blur(6px);
+}
+
+.luna{
+
+position: absolute;
+
+left: 1200px;
+width: 200px;
+height: 640px;
+ filter: drop-shadow(3px 5px 10px rgba(100, 5, 253, 0.7));
+
+}
+
+.preguntas{
+
+font-family: serif;
+
+color: rgb(255, 255, 255);
+text-shadow: 2px 2px 4px #480069;
+}
+
+.verdadero {
+
+ background-image: url(https://media1.tenor.com/m/YZSWknPpLGQAAAAC/fear-and-hunger-rher.gif);
+border-radius: 5px;
+}
+
+.falso{
+
+background-image: url(https://media1.tenor.com/m/YZSWknPpLGQAAAAC/fear-and-hunger-rher.gif);
+
+border-radius: 5px;
+}
+
+.poket{
+
+    position: absolute;
+
+left: 1000px;
+width: 200px;
+height: 640px;
+ filter: drop-shadow(3px 5px 10px rgba(100, 5, 253, 0.7));
+}

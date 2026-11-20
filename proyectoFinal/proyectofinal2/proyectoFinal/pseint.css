@@ -1,0 +1,75 @@
+
+body{
+
+
+cursor: url("horse.png"), auto;
+}
+
+
+.fondo{
+
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+   
+    background-image: url("https://media1.tenor.com/m/ZkIYsVOL6kEAAAAC/tomascore-horse.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+    filter: blur(6px);
+}
+
+.preguntas{
+
+background-image: url(https://media1.tenor.com/m/hI5q8IHcmogAAAAC/tomascore-fog.gif);
+background-repeat: no-repeat;
+background-size: cover;
+width: 50%;
+border-radius: 7px;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+text-shadow: 2px 2px 4px #000000;
+}
+
+.verdadero{
+    background-image: url(https://media1.tenor.com/m/gQ_yGp0GZ-EAAAAC/tomascore-rain-horse.gif);
+    color: white;
+    border-radius: 7px;
+    height: 30px;
+    width: 80px;
+    font-size: 15px;
+    font-family: 'Cormorant Garamond', serif;
+     box-shadow: 2px 2px 4px #5051ac;
+
+}
+
+.falso{
+    background-image: url(https://media1.tenor.com/m/gQ_yGp0GZ-EAAAAC/tomascore-rain-horse.gif);
+    color: white;
+    border-radius: 7px;
+    height: 30px;
+    width: 80px;
+    font-size: 15px;
+    font-family: 'Cormorant Garamond', serif;
+    box-shadow: 2px 2px 4px #5051ac;
+}
+
+.OTRA{
+    background-image: url(https://media1.tenor.com/m/gQ_yGp0GZ-EAAAAC/tomascore-rain-horse.gif);
+    color: white;
+    border-radius: 7px;
+    height: 30px;
+    width: 80px;
+    font-size: 15px;
+    font-family: 'Cormorant Garamond', serif;
+     box-shadow: 2px 2px 4px #5051ac;
+position: absolute;
+
+left: 50%;
+}

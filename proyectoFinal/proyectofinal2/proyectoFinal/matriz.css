@@ -1,0 +1,72 @@
+.fondo{
+
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+   
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQfJaygqaSh0lce0gwJcUED8RIJvjkMrvDw86BTkyBZM8dtkBNp7qgi6NSChvFVABHyaX7uABzz4_6D6I-1OOmGLEtpALLPHJPqAbnjYGFtbA6xWG66oxZxDLA6DumZp4dF0pe-ZZje1wLnuWdTctV1JIp4CSgq1yRmLY-d_MA4ezVwI4NJswcjEUg05aP/s1600/image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+    filter: blur(2px);
+}
+
+.preguntas{
+text-align: center;
+background-image: url(https://media1.tenor.com/m/crNkPq4HPNgAAAAC/blue-code.gif);
+background-repeat: no-repeat;
+background-size: cover;
+color:rgb(232, 244, 255);
+font-size: 20px;
+font-family: 'Cormorant Garamond', serif;
+ box-shadow: 2px 2px 8px 4px #ffffff;
+text-shadow: 2px 2px 4px #1815dd;
+    border-radius:7px;
+
+}
+
+.verdadero{
+   background-image: url(https://media1.tenor.com/m/7_taP4I7VNsAAAAC/muslim-cyber-army.gif);
+    color: white;
+    border-radius: 3px;
+    height: 30px;
+    width: 80px;
+    font-size: 15px;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.falso{
+    background-image: url(https://media1.tenor.com/m/7_taP4I7VNsAAAAC/muslim-cyber-army.gif);
+    color: white;
+    border-radius: 3px;
+    height: 30px;
+    width: 80px;
+    font-size: 15px;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+
+.otra{
+
+
+color: rgb(1, 11, 70);
+    border-radius: 3px;
+    height: 30px;
+    width: 80px;
+    font-size: 15px;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+
+
+
+
+
+
+
+
